@@ -1,2 +1,3 @@
-# aws-lambda-model-deployment-workshop
-The materials for the model deployment workshop
+# AWS Lambda model deployment workshop
+
+Deploying the clothes classification model with AWS Lambda
