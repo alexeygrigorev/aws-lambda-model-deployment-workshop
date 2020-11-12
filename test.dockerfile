@@ -1,7 +1,5 @@
 FROM amazonlinux
 
-WORKDIR /tflite
-
 RUN yum groupinstall -y development
 RUN yum install -y python3.7 python3-devel
 RUN pip3 install boto3
